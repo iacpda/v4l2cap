@@ -1,4 +1,4 @@
-v4l2cap:
+v4l2cap: main.c
 	gcc -W -Wall main.c -o v4l2cap
 
 clean:
